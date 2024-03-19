@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Looping_D_185", "Looping_D_185\Looping_D_185.vcxproj", "{3AD9DE04-1557-4CA3-BC65-79178255271A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "185_WhileLoop", "185_WhileLoop\185_WhileLoop.vcxproj", "{9F0F0355-DC43-450B-9112-98289C3143DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{3AD9DE04-1557-4CA3-BC65-79178255271A}.Release|x64.Build.0 = Release|x64
 		{3AD9DE04-1557-4CA3-BC65-79178255271A}.Release|x86.ActiveCfg = Release|Win32
 		{3AD9DE04-1557-4CA3-BC65-79178255271A}.Release|x86.Build.0 = Release|Win32
+		{9F0F0355-DC43-450B-9112-98289C3143DD}.Debug|x64.ActiveCfg = Debug|x64
+		{9F0F0355-DC43-450B-9112-98289C3143DD}.Debug|x64.Build.0 = Debug|x64
+		{9F0F0355-DC43-450B-9112-98289C3143DD}.Debug|x86.ActiveCfg = Debug|Win32
+		{9F0F0355-DC43-450B-9112-98289C3143DD}.Debug|x86.Build.0 = Debug|Win32
+		{9F0F0355-DC43-450B-9112-98289C3143DD}.Release|x64.ActiveCfg = Release|x64
+		{9F0F0355-DC43-450B-9112-98289C3143DD}.Release|x64.Build.0 = Release|x64
+		{9F0F0355-DC43-450B-9112-98289C3143DD}.Release|x86.ActiveCfg = Release|Win32
+		{9F0F0355-DC43-450B-9112-98289C3143DD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
